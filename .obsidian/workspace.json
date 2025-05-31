@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "f52d2555b0270575",
+    "type": "split",
+    "children": [
+      {
+        "id": "e747d9ecfeea5249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b0680c7ebb72a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0/General Security Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Security Concepts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eea3bb8a7407076e",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ecc7e26c75c02a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c82a68a033ea339",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d0ecb7dae42d495",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40bbbeee88556a8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1a140828801a8f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcfa71d0fbf719d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8feb6ef05b164b09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.0/General Security Concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for General Security Concepts"
+            }
+          },
+          {
+            "id": "29f1ae5b39d14d16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.0/General Security Concepts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from General Security Concepts"
+            }
+          },
+          {
+            "id": "2776c63be92b4bd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96732240ff462ed3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.0/General Security Concepts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of General Security Concepts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "86b0680c7ebb72a3",
+  "lastOpenFiles": [
+    "Security+ Test.md",
+    "1.0/General Security Concepts.md",
+    "1.0/Authentication, Authorization, and Accounting (AAA).md",
+    "5.0",
+    "4.0",
+    "3.0",
+    "2.0",
+    "1.0/Business processes impacting security operation.md",
+    "1.0/Confidentiality, Integrity, and Availability (CIA).md",
+    "1.0",
+    "1.0/Certificates.md",
+    "1.0/Obfuscation.md",
+    "1.0/Tools.md",
+    "1.0/Encryption.md",
+    "1.0/Public key infrastructure (PKI).md",
+    "1.0/Documentation.md",
+    "1.0/Technical implications.md",
+    "1.0/Zero Trust.md",
+    "1.0/Physical security.md",
+    "1.0/Deception and disruption technology.md",
+    "1.0/Control types.md",
+    "1.0/Categories.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

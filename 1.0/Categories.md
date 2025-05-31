@@ -1,0 +1,4 @@
+- Technical  
+- Managerial  
+- Operational  
+- Physical  

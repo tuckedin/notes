@@ -1,0 +1,8 @@
+- Approval process  
+- Ownership  
+- Stakeholders  
+- Impact analysis  
+- Test results  
+- Backout plan  
+- Maintenance window  
+- Standard operating procedure  

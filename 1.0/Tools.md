@@ -1,0 +1,4 @@
+- Trusted Platform Module (TPM)  
+- Hardware security module (HSM)  
+- Key management system  
+- Secure enclave  

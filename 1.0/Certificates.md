@@ -1,0 +1,8 @@
+- Certificate authorities  
+- Certificate revocation lists (CRLs)  
+- Online Certificate Status Protocol (OCSP)  
+- Self-signed  
+- Third-party  
+- Root of trust  
+- Certificate signing request (CSR) generation  
+- Wildcard

@@ -1,0 +1,3 @@
+- Authenticating people
+- Authenticating systems
+- Authorization models

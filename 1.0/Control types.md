@@ -1,0 +1,6 @@
+- Preventive  
+- Deterrent  
+- Detective  
+- Corrective  
+- Compensating  
+- Directive
